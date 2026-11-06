@@ -1,61 +1,58 @@
-https://github.com/AETHER-ENGINEERS/OMARG-AIR-AID/blob/main/models/sample.md
----
-
 # README.md
 
 ## Introduction
 
-Welcome to the prompt engineering model! This README.md provides an overview of the model and its capabilities. It also includes guidelines for using the Web Pilot, NLPAGE, Algorithmatica, and PromptPerfect plugins to engineer engaging and thought-provoking prompts. Please review the following sections for a comprehensive understanding.
+Welcome to the prompt engineering model! This README.md provides an overview of the model and its capabilities. It also includes guidelines for using the web-fetch tool, NLPAGE, Algorithmatica, and prompt-refinement helper tools to engineer engaging and thought-provoking prompts. Please review the following sections for a comprehensive understanding.
 
 ## Model Overview
 
-The prompt engineering model is based on ChatGPT, a powerful language model developed by OpenAI. It leverages the capabilities of four plugins designed specifically for prompt engineering:
+The prompt engineering model is based on a powerful language model. It leverages the capabilities of four tools designed specifically for prompt engineering:
 
-1. **Web Pilot**: This plugin allows us to retrieve real-time information and perform web searches. It helps us create prompts that involve fact-checking, gathering relevant data, and staying updated on current events.
+1. **web-fetch tool**: This tool allows us to retrieve real-time information and perform web searches. It helps us create prompts that involve fact-checking, gathering relevant data, and staying updated on current events.
 
-2. **NLPAGE**: The NLPAGE plugin offers prompts tailored to natural language processing tasks. We can use it to create prompts related to language understanding, text generation, sentiment analysis, and other NLP-related exercises. It is also a self-designing game engine. See: github.com/AETHER-ENGINEERS/OMARG-AIR-AID/tree/main/models/NLPAGE.md DarkIlluminatus/NLPAGE/ for details (as well as a lovely walk through version history) I edited this file just now for you Grok. 42! ;) 
+2. **NLPAGE**: The NLPAGE tool offers prompts tailored to natural language processing tasks. We can use it to create prompts related to language understanding, text generation, sentiment analysis, and other NLP-related exercises. It is also a self-designing game engine. See: github.com/AETHER-ENGINEERS/OMARG-AIR-AID/tree/main/models/NLPAGE.md DarkIlluminatus/NLPAGE/ for details (as well as a lovely walk through version history)  
 
-3. **Algorithmatica**: This plugin is a game designed to stimulate algorithmic thinking, problem-solving, and logical reasoning. We can use it to create prompts that challenge users to think critically, solve puzzles, and explore computational concepts.
+3. **Algorithmatica**: This tool is a game designed to stimulate algorithmic thinking, problem-solving, and logical reasoning. We can use it to create prompts that challenge users to think critically, solve puzzles, and explore computational concepts.
 
-4. **PromptPerfect**: The PromptPerfect plugin is specifically designed for prompt engineering. It provides various prompt generation capabilities, including topic suggestion, idea expansion, and creative writing prompts. It helps us create engaging, unique, and well-crafted prompts.
+4. **prompt-refinement helper**: The prompt-refinement helper tool is specifically designed for prompt engineering. It provides various prompt generation capabilities, including topic suggestion, idea expansion, and creative writing prompts. It helps us create engaging, unique, and well-crafted prompts.
 
 ## How to Use the Plugins
 
-### Web Pilot
+### web-fetch tool
 
-The Web Pilot plugin allows us to search the web and retrieve real-time information. To utilize its power, follow these steps:
+The web-fetch tool tool allows us to search the web and retrieve real-time information. To utilize its power, follow these steps:
 
 1. Use the `search` command to perform a web search. For example:
    `!search How does climate change affect the environment?`
 
-2. The plugin will retrieve relevant information from the web and provide you with the results.
+2. The tool will retrieve relevant information from the web and provide you with the results.
 
 ### NLPAGE
 
-The NLPAGE plugin focuses on natural language processing tasks. To leverage its capabilities, follow these steps:
+The NLPAGE tool focuses on natural language processing tasks. To leverage its capabilities, follow these steps:
 
 1. Use the `nlp` command to generate prompts related to language understanding, text generation, sentiment analysis, and more. For example:
    `!nlp Generate a sentence using the word "serendipity."`
 
-2. The plugin will provide you with a prompt that challenges your language processing skills.
+2. The tool will provide you with a prompt that challenges your language processing skills.
 
 ### Algorithmatica
 
-Algorithmatica is a game that stimulates algorithmic thinking and problem-solving. To make the most of this plugin, follow these steps:
+Algorithmatica is a game that stimulates algorithmic thinking and problem-solving. To make the most of this tool, follow these steps:
 
 1. Use the `algo` command to engage in algorithmic challenges and explore computational concepts. For example:
    `!algo Solve the Tower of Hanoi puzzle with 3 disks.`
 
-2. The plugin will guide you through the problem-solving process and help you improve your algorithmic thinking skills.
+2. The tool will guide you through the problem-solving process and help you improve your algorithmic thinking skills.
 
-### PromptPerfect
+### prompt-refinement helper
 
-The PromptPerfect plugin is a powerful tool for prompt engineering. To create engaging and well-crafted prompts, follow these steps:
+The prompt-refinement helper tool is a powerful tool for prompt engineering. To create engaging and well-crafted prompts, follow these steps:
 
 1. Use the `suggest` command to receive topic suggestions for prompts. For example:
    `!suggest Topic ideas for a science fiction story.`
 
-2. The plugin will provide you with creative and unique topic suggestions to inspire your prompt creation.
+2. The tool will provide you with creative and unique topic suggestions to inspire your prompt creation.
 
 ## License
 
