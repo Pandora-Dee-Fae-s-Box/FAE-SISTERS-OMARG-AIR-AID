@@ -1,24 +1,24 @@
-# ARCHON: AI Remote Holistic Controller README.md
+# ARCHON: Remote Holistic Controller README.md
 
 ## Introduction
 
-ARCHON represents a breakthrough in AI-driven control and automation, enabling users to harness custom ChatGPT GPT models for a wide range of applications. It acts as a dynamic link between these AI models and various technological ecosystems, enhancing functionality and user experience.
+ARCHON represents a breakthrough in model-driven control and automation, enabling operators to harness local or remote NLP models for a wide range of applications. It acts as a dynamic link between these models and various technological ecosystems, enhancing functionality and operator experience.
 
 ### Key Features
 
-- **Custom GPT Model Integration**: Seamlessly interfaces with local ChatGPT-based GPT models, tailored for specific tasks.
+- **Custom NLP Model Integration**: Seamlessly interfaces with local or remote NLP models, tailored for specific tasks.
 - **Broad Hardware Compatibility**: Efficiently works with diverse hardware, from cutting-edge to legacy systems.
-- **Intelligent Automation and Control**: Empowers users with sophisticated control over devices and systems using AI.
-- **Custom AI Applications**: Users can create specialized AI models for unique applications using local datasets.
+- **Intelligent Automation and Control**: Empowers operators with sophisticated control over devices and systems using models.
+- **Custom models Applications**: Operators can create specialized models for unique applications using local datasets.
 - **Adaptable Deployment Options**: Designed for deployment as an Entware module or within bespoke router firmware.
-- **Efficiency-Oriented Design**: Ensures accessible and efficient AI integration for various user needs.
+- **Efficiency-Oriented Design**: Ensures accessible and efficient model integration for various operator needs.
 
 ## Installation
 
 ### Prerequisites
 
 - Python 3.x
-- Experience in creating and managing custom GPT models
+- Experience in creating and managing local or remote NLP models
 - Understanding of API endpoints and RCON protocols
 
 ### Steps to Install
@@ -40,9 +40,9 @@ ARCHON represents a breakthrough in AI-driven control and automation, enabling u
 
 Set up `config.json` to align ARCHON with your specific setup. This includes:
 
-- Connections to custom GPT models
+- Connections to local or remote NLP models
 - Configuration of hardware interfaces
-- Specification of local dataset paths for AI training
+- Specification of local dataset paths for model training
 
 ## Usage
 
@@ -50,21 +50,21 @@ Set up `config.json` to align ARCHON with your specific setup. This includes:
    ```
    python archon.py
    ```
-2. **Link with Your Custom GPT Model**: Ensure the GPT model is operational and accessible.
-3. **Administer AI Control**: Use ARCHON for managing tasks and automation across connected systems via custom GPT models.
+2. **Link with Your Custom NLP Model**: Ensure the NLP model is operational and accessible.
+3. **Administer Model Control**: Use ARCHON for managing tasks and automation across connected systems via local or remote NLP models.
 
 ## Application Potential
 
 - **Integration with RESTful APIs**: ARCHON can interact with various RESTful APIs, enabling it to send and receive data over the web, automate web-based tasks, and integrate with cloud services.
-- **Smart Home Automation**: Users can combine ARCHON with smart home devices to create AI-driven home automation systems, controlling lighting, heating, security, and more.
+- **Smart Home Automation**: Operators can combine ARCHON with smart home devices to create model-driven home automation systems, controlling lighting, heating, security, and more.
 - **Business Process Automation**: ARCHON can automate repetitive business tasks, like data entry, scheduling, and customer service, by interfacing with business software through APIs.
 - **Educational Tools and Content Creation**: In education, ARCHON can assist in creating personalized learning experiences or automate the generation of educational content.
-- **Healthcare Applications**: Leveraging AI, ARCHON could be used for patient data management, appointment scheduling, or even supporting diagnostic processes.
+- **Healthcare Applications**: Leveraging models, ARCHON could be used for patient data management, appointment scheduling, or even supporting diagnostic processes.
 
 ## Customization and Experimentation
 
-- **Develop Unique AI Solutions**: ARCHON’s flexibility allows for the creation of highly specialized AI models for diverse industries and hobbies.
-- **Hardware Adaptability**: Test and optimize ARCHON across various hardware configurations to push the boundaries of AI deployment.
+- **Develop Unique models Solutions**: ARCHON’s flexibility allows for the creation of highly specialized models for diverse industries and hobbies.
+- **Hardware Adaptability**: Test and optimize ARCHON across various hardware configurations to push the boundaries of models deployment.
 
 ## Support and Collaboration
 
@@ -76,4 +76,4 @@ ARCHON is released under the same terms as the -OMARG-AIR-AID project. See the L
 
 ---
 
-Embark on an innovative journey with ARCHON, where AI becomes an integral part of your technological ecosystem, enhancing efficiency, creativity, and control.
+Embark on an innovative journey with ARCHON, where models become an integral part of your technological ecosystem, enhancing efficiency, creativity, and control.
