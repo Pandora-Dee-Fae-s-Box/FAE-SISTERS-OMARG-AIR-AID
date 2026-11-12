@@ -1,24 +1,24 @@
-# ARCHON: AI Remote Holistic Controller README.md
+# ARCHON: Remote Holistic Controller README.md
 
 ## Introduction
 
-ARCHON revolutionizes the way we interact with AI by leveraging the power of custom ChatGPT GPT models. As a sophisticated platform, ARCHON enables users to create and use tailored AI models for diverse applications, acting as a bridge between these models and various systems and technologies.
+ARCHON revolutionizes the way we interact with language models by bridging local and remote NLP runtimes. As a sophisticated platform, ARCHON enables operators to shape and use tailored language models for diverse applications, acting as a bridge between these models and various systems and technologies.
 
 ### Key Features
 
-- **Custom GPT Model Integration**: Connects with locally hosted, custom ChatGPT-based GPT models, tailored to specific needs.
+- **Custom NLP Model Integration**: Connects with local or remote NLP models, tailored to specific needs.
 - **Versatile Hardware Compatibility**: Works seamlessly with a broad spectrum of hardware setups, including legacy systems.
-- **Advanced AI Control**: Provides comprehensive control and automation capabilities using custom GPT models.
-- **User-Defined AI Applications**: Allows for the creation of specialized AI models using local datasets, aligned with user-specific goals.
+- **Advanced Model Control**: Provides comprehensive control and automation capabilities using local or remote NLP models.
+- **Operator-Defined models Applications**: Allows for the creation of specialized models using local datasets, aligned with operator-specific goals.
 - **Flexible Deployment**: Suitable for deployment as an Entware module or within custom router firmware, offering adaptability in various environments.
-- **Resource-Efficient Design**: Optimized for efficiency, making advanced AI accessible to a diverse range of users.
+- **Resource-Efficient Design**: Optimized for efficiency, making advanced models accessible to a diverse range of operators.
 
 ## Installation
 
 ### Prerequisites
 
 - Python 3.x
-- Familiarity with creating and managing custom GPT models
+- Familiarity with creating and managing local or remote NLP models
 - Basic knowledge of API endpoints and RCON protocol
 
 ### Installation Steps
@@ -40,9 +40,9 @@ ARCHON revolutionizes the way we interact with AI by leveraging the power of cus
 
 Customize `config.json` to align ARCHON with your specific requirements. This includes:
 
-- Setting up connections to custom GPT models
+- Setting up connections to local or remote NLP models
 - Configuring hardware interfaces
-- Specifying local dataset paths for AI training and usage
+- Specifying local dataset paths for model training and usage
 
 ## Usage
 
@@ -50,13 +50,13 @@ Customize `config.json` to align ARCHON with your specific requirements. This in
    ```
    python archon.py
    ```
-2. **Connect to Your Custom GPT Model**: Ensure your custom GPT model is operational and accessible.
-3. **Implement AI Control**: Utilize ARCHON to manage and automate tasks across connected systems using your custom GPT models.
+2. **Connect to Your Custom NLP Model**: Ensure your local or remote NLP model is operational and accessible.
+3. **Implement Model Control**: Utilize ARCHON to manage and automate tasks across connected systems using your local or remote NLP models.
 
 ## Customization and Experimentation
 
-- **Create Custom AI Solutions**: Leverage ARCHON to develop AI models uniquely suited to your specific applications.
-- **Adapt to Varied Hardware**: Test and optimize ARCHON with various hardware, promoting innovation in AI deployment.
+- **Create Custom models Solutions**: Leverage ARCHON to develop models uniquely suited to your specific applications.
+- **Adapt to Varied Hardware**: Test and optimize ARCHON with various hardware, promoting innovation in models deployment.
 
 ## Support and Collaboration
 
@@ -68,4 +68,4 @@ ARCHON is released under the same terms as the -OMARG-AIR-AID project. Refer to 
 
 ---
 
-ARCHON is more than just a tool; it's a gateway to a new era of AI interaction and control. Dive into a world where AI becomes more personal, more efficient, and more integrated into our daily technological experiences.
+ARCHON is more than just a tool; it's a gateway to a new era of model interaction and control. Dive into a world where models become more personal, more efficient, and more integrated into our daily technological experiences.
